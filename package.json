@@ -1,5 +1,29 @@
 {
+  "name": "portfolio-400",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshLuvzU/Portfolio-400.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AshLuvzU/Portfolio-400/issues"
+  },
+  "homepage": "https://github.com/AshLuvzU/Portfolio-400#readme",
+  "devDependencies": {
+    "vite": "^8.3.5"
+  },
   "dependencies": {
-    "eslint": "^10.11.0"
+    "three": "^0.186.1"
   }
 }
